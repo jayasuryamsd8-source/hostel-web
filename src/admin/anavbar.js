@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import ReorderIcon from "@material-ui/icons/Reorder";
 import "./styles/anavbar.css";
 import NavLink from "./anavlink";
-import myLogo from "../assets/myLogo.png";
+
 
 function Navbar() {
   const [openLinks, setOpenLinks] = useState(false);
