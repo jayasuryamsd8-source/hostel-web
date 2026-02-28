@@ -2,7 +2,7 @@
   "name": "hostel-services",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jayasuryamsd8-source.github.io/Hostel",
+"homepage": "https://jayasuryamsd8-source.github.io/hostel-web",
 
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
